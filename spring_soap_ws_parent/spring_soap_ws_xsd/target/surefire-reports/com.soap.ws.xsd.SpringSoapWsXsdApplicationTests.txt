@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.soap.ws.xsd.SpringSoapWsXsdApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.701 sec - in com.soap.ws.xsd.SpringSoapWsXsdApplicationTests
