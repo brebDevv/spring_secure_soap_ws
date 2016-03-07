@@ -1,0 +1,7 @@
+/home/luigig/workspace/spring_soap_ws_parent/spring_soap_ws_xsd/src/main/java/io/spring/guides/gs_producing_web_service/package-info.java
+/home/luigig/workspace/spring_soap_ws_parent/spring_soap_ws_xsd/src/main/java/io/spring/guides/gs_producing_web_service/ObjectFactory.java
+/home/luigig/workspace/spring_soap_ws_parent/spring_soap_ws_xsd/src/main/java/io/spring/guides/gs_producing_web_service/Currency.java
+/home/luigig/workspace/spring_soap_ws_parent/spring_soap_ws_xsd/src/main/java/io/spring/guides/gs_producing_web_service/Country.java
+/home/luigig/workspace/spring_soap_ws_parent/spring_soap_ws_xsd/src/main/java/io/spring/guides/gs_producing_web_service/GetCountryRequest.java
+/home/luigig/workspace/spring_soap_ws_parent/spring_soap_ws_xsd/src/main/java/io/spring/guides/gs_producing_web_service/GetCountryResponse.java
+/home/luigig/workspace/spring_soap_ws_parent/spring_soap_ws_xsd/src/main/java/com/soap/ws/xsd/SpringSoapWsXsdApplication.java

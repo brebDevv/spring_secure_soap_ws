@@ -1,0 +1,4 @@
+com/spring/soap/ws/endpoint/CountryEndpoint.class
+com/spring/soap/ws/SpringSoapWsApplication.class
+com/spring/soap/ws/build/data/CountryRepository.class
+com/spring/soap/ws/config/WebServiceConfig.class
