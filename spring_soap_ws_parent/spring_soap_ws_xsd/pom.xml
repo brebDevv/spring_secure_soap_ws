@@ -57,7 +57,7 @@
 				</executions>
 				<configuration>
 					<schemaDirectory>${project.basedir}/src/main/resources/</schemaDirectory>
-					<outputDirectory>${project.basedir}/src/main/java/</outputDirectory>
+					<outputDirectory>target/com/countries</outputDirectory>
 					<clearOutputDir>false</clearOutputDir>
 				</configuration>
 			</plugin>
