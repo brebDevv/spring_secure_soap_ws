@@ -2,7 +2,9 @@
 .project
 .settings/
 .mvn/
-*/target/**
+spring_soap_ws_parent/spring_soap_ws/target/**
+spring_soap_ws_parent/spring_soap_ws_xsd/target/**
+
 *.class
 
 # Mobile Tools for Java (J2ME)
